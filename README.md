@@ -6,3 +6,6 @@
  * Azure
  * Linux
  * Github
+
+ * Operating system
+ * Network
