@@ -13,3 +13,4 @@
 
  * Operating system
  * Network
+ * SQL query Tunning 
