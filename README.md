@@ -10,7 +10,7 @@
 
  * Javascript
  * JAVA
- * Azure
+ * Azure Fundamentals
  * Linux
  * Github
 
