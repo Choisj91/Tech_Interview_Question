@@ -6,8 +6,9 @@
  * JAVA
  * Azure Fundamentals
  * Linux
- * Github
+ * Git/Github, SourceTree
 
  * Operating system
  * Network
  * SQL query Tunning 
+ * Project Management
