@@ -2,7 +2,7 @@
  
  * PHP5.0->PHP7.0
  * Lalavel 
- * Javascript
+ * Javascript-> jQuery 活用
  * JAVA
  * Azure Fundamentals
  * Linux
