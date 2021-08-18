@@ -16,4 +16,8 @@
  * Operating system
  * Network
  * SQL query Tunning 
+ 	- Join
+ 	- Indexing
+ 	- SortTuning
+ 	- Optimizer
  * Project Management
