@@ -14,6 +14,8 @@
 メンバーが自分が開発した部分をPUSHしたら、テクリードである僕が修正分の確認やリビューを行いました。
 
  * Operating system
+ 	- Window OS
+ 	- Linux
  * Network
  * SQL query Tunning 
  	- Join
