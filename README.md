@@ -1,6 +1,6 @@
 # Tech_Interview_Question_for_Software-Engineer
  
- * PHP5.0->PHP7.0
+ * PHP5.0->PHP7.1
  * Lalavel 
  * Javascript-> jQuery 活用
  * JAVA
