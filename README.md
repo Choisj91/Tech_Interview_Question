@@ -23,3 +23,4 @@
  	- SortTuning
  	- Optimizer
  * Project Management
+ * Tech Leader Experience
