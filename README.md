@@ -17,10 +17,12 @@
  	- Window OS
  	- Linux
  * Network
- * SQL query Tunning 
+ * SQL query Tunning(
  	- Join
  	- Indexing
  	- SortTuning
  	- Optimizer
+ 	- MySQL
+ 	- Oracle
  * Project Management
  * Tech Leader Experience
