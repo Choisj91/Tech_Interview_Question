@@ -1,7 +1,7 @@
 # Tech_Interview_Question_for_Software-Engineer
  
  * PHP5.0->PHP7.1
- * Lalavel 
+ * FrameWork : Lalavel 
  * Javascript-> jQuery 活用
  * JAVA
  * Azure Fundamentals
