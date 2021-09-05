@@ -1,9 +1,11 @@
 # Tech_Interview_Question_for_Software-Engineer
  
  * PHP5.0->PHP7.1
+   - tcpdf : PDF-API 活用
  * FrameWork : Lalavel 
  * Javascript-> jQuery 活用
  * JAVA
+ 　- Azure Cognitive service FACE-API 活用
  * Azure Fundamentals
  * Linux
 実務の経験はないですが、基本的な操作には問題ありません。
