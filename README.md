@@ -6,7 +6,7 @@
  * Javascript-> jQuery 活用
  * JAVA
  　- Azure Cognitive service FACE-API 活用
- * Azure Fundamentals
+ * Azure Fundamentals(AZ-900)
  * Linux
 実務の経験はないですが、基本的な操作には問題ありません。
 基本的なファイル移動や、ファイル作成、削除、シンボリックリンク作成、権限変更、ログ出力などの操作は可能です。
