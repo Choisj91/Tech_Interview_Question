@@ -3,7 +3,10 @@
  * PHP5.0->PHP7.1
    - tcpdf : PDF-API 活用
  * FrameWork : Lalavel 
- * Javascript-> jQuery 活用
+ * Javascript
+   - library : jQuery
+   - Ajax 通信 書き方
+   - Chart.js API 活用
  * JAVA
  　- Azure Cognitive service FACE-API 活用
  * Azure Fundamentals(AZ-900)
