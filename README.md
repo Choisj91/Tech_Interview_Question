@@ -9,6 +9,7 @@
    - Chart.js API 活用
  * JAVA
  　- Azure Cognitive service FACE-API 活用
+ * Visual Basic(VB.net)
  * Azure Fundamentals(AZ-900)
  * Linux
 実務の経験はないですが、基本的な操作には問題ありません。
