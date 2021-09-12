@@ -2,7 +2,7 @@
  
  * PHP5.0->PHP7.1
    - tcpdf : PDF-API 活用
- * FrameWork : Lalavel 
+ * FrameWork : Lalavel 活用して展開
  * Javascript
    - library : jQuery
    - Ajax 通信 書き方
