@@ -4,7 +4,7 @@
    - tcpdf : PDF-API 活用
  * FrameWork : Lalavel 活用して展開
  * Javascript
-   - library : jQuery
+   - library : jQuery 活用
    - Ajax 通信 書き方
    - Chart.js API 活用
  * JAVA
