@@ -1,7 +1,7 @@
 # Tech_Interview_Question_for_Software-Engineer
  
  * PHP5.0->PHP7.1
-   - tcpdf : PDF-API 活用
+   - tcpdf : PDF-API 活用してPDF出力
  * FrameWork : Lalavel 活用して展開
  * Javascript
    - library : jQuery 活用
