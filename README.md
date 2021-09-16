@@ -30,5 +30,6 @@ GitとSourceTreeツールを活用して、チームプロジェクトのソー�
  	- Optimizer
  	- MySQL
  	- Oracle
+ 	- Oracle
  * Project Management
  * Tech Leader Experience
