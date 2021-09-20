@@ -2,13 +2,14 @@
  
  * PHP5.0->PHP7.1
    - tcpdf : PDF-API 活用してPDF出力
- * FrameWork : Lalavel 活用して展開
+ * FrameWork : lalavel 活用して展開
  * Javascript
    - library : jQuery 活用
    - Ajax 通信 書き方
    - Chart.js API 活用
  * JAVA
  　- Azure Cognitive service FACE-API 活用
+ * FrameWork : Spring 活用して展開
  * Visual Basic(VB.net)
  * Azure Fundamentals(AZ-900)
  * Linux
