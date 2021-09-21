@@ -12,7 +12,7 @@
  * FrameWork : Spring 活用して展開
  * Visual Basic(VB.net)
  * Azure Fundamentals(AZ-900)
- * Linux
+ * Linux LPIC-1
 実務の経験はないですが、基本的な操作には問題ありません。
 基本的なファイル移動や、ファイル作成、削除、シンボリックリンク作成、権限変更、ログ出力などの操作は可能です。
 
