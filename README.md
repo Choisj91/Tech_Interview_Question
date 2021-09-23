@@ -21,7 +21,7 @@ GitとSourceTreeツールを活用して、チームプロジェクトのソー�
 メンバーが自分が開発した部分をPUSHしたら、テクリードである僕が修正分の確認やリビューを行いました。
 
  * Operating system
- 	- Window OS 10
+ 	- Window OS 10(Enterprise version)
  	- Linux
  * Network
  * SQL query Tunning(
