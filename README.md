@@ -9,6 +9,7 @@
    - Chart.js API 活用
  * JAVA
  　- Azure Cognitive service FACE-API 活用
+ 　- 
  * FrameWork : Spring 活用して展開
  * Visual Basic(VB.net)
  * Azure Fundamentals(AZ-900)
